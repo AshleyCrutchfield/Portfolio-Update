@@ -14,12 +14,9 @@ body {
   }
 
   h1 {
-    border: 6px groove black;
+    font-size: 50px;
     padding: 20px;
     border-color: black;
-    background: thistle;
-    background-clip: border-box;
-    color: black;
     text-decoration: overline;
     font-style: italic;
     display: inline-block;
